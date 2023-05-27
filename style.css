@@ -116,3 +116,58 @@ border-radius:25px;
 border-style:none;
     
 }
+
+.secondpart {
+
+
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    gap:20px;
+
+
+}
+
+.headtwo {
+
+display:flex;
+font-size:38px;
+font-weight:900;
+
+
+}
+
+
+.boxes {
+
+display:flex;
+gap:40px;
+
+}
+
+.wholebox {
+
+    display:flex;
+    flex-direction:column;
+
+
+}
+
+.box {
+
+    display:flex;
+    width:200px;
+    height:200px;
+    border: 3px solid #3882F6;
+    border-radius:25px;
+
+}
+
+.tbox {
+
+    display:flex;
+    width:200px;
+    text-align:center;
+
+
+}
