@@ -7,7 +7,7 @@ font-family: roboto, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 .whole {
 
-    width:max-content;
+    width: auto;
     display:flex;
     justify-content:center;
     flex-direction:column;
